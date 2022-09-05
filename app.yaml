@@ -1,6 +1,2 @@
 runtime: php74
 service: default
-
-handlers:
-  -url: /assets
-  static_dir: assets
