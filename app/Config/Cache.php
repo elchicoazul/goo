@@ -68,7 +68,7 @@ class Cache extends BaseConfig
      *
      * @var bool|string[]
      */
-    public $cacheQueryString = false;
+    public $cacheQueryString = true;
 
     /**
      * --------------------------------------------------------------------------
