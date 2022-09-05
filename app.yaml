@@ -1,2 +1,2 @@
 runtime: php74
-service: fronted
+service: default
