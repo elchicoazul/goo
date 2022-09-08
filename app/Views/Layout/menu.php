@@ -53,7 +53,7 @@
                             Google
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="<?php echo base_url() ?>/Almacen">menu</a></li>
+                            <li><a class="dropdown-item" href="<?php echo base_url() ?>/db">db</a></li>
                             <li><a class="dropdown-item" href="#">G-Secciones</a></li>
                             <li>
                                 <hr class="dropdown-divider">
