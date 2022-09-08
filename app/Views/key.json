@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "cloud-reconocimiento-facial",
+    "private_key_id": "2804c09e9c6ef0ebf42ebcbaf347c72bf8bae053",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzPiRJImntBDqE\nzvN1zYMpFPz70xfUZZWAUuYOExacwR9GR1ekmnfqspfXybf5eWriy6wy34zZCZhL\n0addOmvOvUwQhGg4fo/Xg30mql+4xa3ymP/DRYzbAequifZiaZf8L3zWVOEGDDWY\n+PkCCWiDcOy7abZ9ZrGGSdLzL9NIrfbgH73S7vGU5Z8n94ZIdre1pozYXcE3/WCI\nX7lHLMr9thRUrHX7d565NlvqsrjBv9Rb6uU++RXQxxF71pcZSvadYs38wU958qgZ\nv0BQCz/0zn5P+V+H7kyYZilRlJFTFwMW+K/cdQbNj3a0ul7BX6y8em309imnFEko\nS/N9CQBhAgMBAAECggEAR2p7Cqiri8QjjMboOgeoOrYiFjQFSpsu9fIRt4njeJF5\n5IaIZQ0mulxuI4w7wSqfa7263oozlEY+Z/cguASO79B8fhhDbj7/EN9S/hTkDrq0\nk/Rh82vCs4AQAXr2sD9iTxicpMks3zv+HvUUQbt96OEVcZatH0nLcbX4Vuy3Qj1i\nI2iyJNtuSLEvxV9PzuCRapRDPHeySC5aMEl9EjhyMr7E7ti94q1gi5XjcJh1DY9K\nzUQssQ/B5+AKYCRaUwuzyZdtPQQLe0vNQBVzl5DA9hufotmdGqkHFInHp6FTwwz3\nMP8RwykeAgt6s6dsg+HjogaRxKE3M3JqYgCovtyYAQKBgQDyLwZYCbVGObYdV52N\nJanIP+zqjgpzb21sDnW2BjclJoQqMvYARGA3J5YghVTA8Q1fE3NEaum5VNEX1Ekx\nr0fJsvRjMB3VRig91bJanGR+AMu1wHgrz5vkv7Mr3k6qm4vgMwhHLAWJ4pB21r4w\nTaQICcJUlaYYSJmSCnza4CtjRwKBgQC9d+UbnSutgwit0/fiGEl7Rathf7Va9gva\nc0oyCnleg+QxNsFQvZG51XwBm14588qwnGYebJC+ctf+C3yCXHaPN39ywX0emdZA\nvM7mg+wqCvJBrG8Bo45PZlZ6dMDtQyTrETYHaZVv8h5nZ7CSa29VmdW1f3C8deob\n75VD6VzDFwKBgQDuffSHWfgTkd2Pg6p5Ru+tbZZHXV1ZVA+za4HroK9JfGaGj+zF\nUpBVgDxNBj/ySO9cA3FtnMNRaP8Hslvp+6x8KiiUTNv0HMSgMAMVTBGCLBJvh3xP\n2ICygT1WI/Pf+pGCVX7/Z5CEuoJ9JPfh5XN1HvcqCLyqCUSCFqXhfQP9HQKBgE10\nvkzTrA97CglGJohftWqXyMBLHTDadW4Qw7xBW+yvrpIP+Gexl+mIxPFDOvomGC6r\nQXQene29tV8+AuCoPC/AWHHpd+USruw4Q70pIVrurqr6e0cIPh1nkOLu6BAW6vjO\nSHAvUdA6AwPy99Rj51fvU9anCseAzPwura7dr/ZxAoGAfSOo+7nGBWXivjgcTc2H\nTSVKyw8LWMfB/utqnm7R133LOwP/xaBrkbC+lvC6W+IVHPCMHcFOdnfebyTeoRdw\nvXz9b/kLNR9Z6uG0bs8TELmStJs/INmGRxdDyJt50uDrtAtyK43ydap8ndSu9Y6S\nJ6KmTtthkEPlrZRHpKJIsn0=\n-----END PRIVATE KEY-----\n",
+    "client_email": "googletp-42@cloud-reconocimiento-facial.iam.gserviceaccount.com",
+    "client_id": "116079200740632972241",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googletp-42%40cloud-reconocimiento-facial.iam.gserviceaccount.com"
+  }

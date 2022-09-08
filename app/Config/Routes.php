@@ -36,6 +36,10 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
+$routes->get('/db', 'Home::db');
+$routes->get('/foto/(:any)', 'Home::foto/$1');
+$routes->get('/fotoimg/(:any)', 'Home::fotos/$1');
+$routes->post('/guardar_imagen', 'Home::img');
 $routes->get('/Facial', 'FaceController::index');
 
 /*

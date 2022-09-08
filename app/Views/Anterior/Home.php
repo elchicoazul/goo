@@ -6,25 +6,25 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('Anterior/welcome_message');
+        return view('welcome_message');
     }
     public function db()
     {
-        return view('Anterior/db');
+        return view('db');
     }
     public function foto($url)
     {
         $datos=[
             'path' =>$url
         ];
-        return view('Anterior/foto',$datos);
+        return view('foto',$datos);
     }
     public function fotos($url)
     {
         $datos=[
             'path' =>$url
         ];
-        return view('Anterior/fotos',$datos);
+        return view('fotos',$datos);
     }
     public function img(){
         $imagenCodificada = file_get_contents("php://input"); //Obtener la imagen
