@@ -1,5 +1,0 @@
-runtime: php74
-service: default
-handlers:
-- url: /.*
-  script: index.php
